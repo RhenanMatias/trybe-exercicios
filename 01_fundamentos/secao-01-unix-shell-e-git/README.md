@@ -5,16 +5,16 @@ Nosso primeiro módulo ensinará tudo o que você precisa saber para se preparar
 ### Você será capaz de:
 ### Utilizar o Shell;
 
-- Operar o Git e o GitHub confortavelmente;
+- _Operar o Git e o GitHub confortavelmente;_
 
-- Criar documentos HTML estilizados com CSS;
+- _Criar documentos HTML estilizados com CSS;_
 
-- Usar o JavaScript para adicionar comportamento às páginas web;
+- _Usar o JavaScript para adicionar comportamento às páginas web;_
 
-- Utilizar recursos de HTML e CSS avançados;
+- _Utilizar recursos de HTML e CSS avançados;_
 
-- Trabalhar com JavaScript ES6;
+- _Trabalhar com JavaScript ES6;_
 
-- Escrever testes unitários;
+- _Escrever testes unitários;_
 
-- Manipular conjuntos de dados para resolver problemas complexos.
+- _Manipular conjuntos de dados para resolver problemas complexos_
