@@ -1,1 +1,15 @@
-1 - Acesse as chaves name, lastName e title e exiba informações em um console.log() no seguinte formato: “O livro favorito de Julia Pessoa se chama ‘O Senhor dos Anéis - a Sociedade do Anel’.”.
+1 - Acesse as chaves name, lastName e title e exiba informações em um console.log() no seguinte formato: “O livro favorito de Julia Pessoa se chama ‘O Senhor dos Anéis - a Sociedade do Anel’.” - CONCLUÍDO
+
+2 - Adicione um novo livro favorito na chave favoriteBooks, que é um array de objetos. Atribua a essa chave um objeto que contenha as seguintes informações: - CONCLUÍDO
+
+  title: 'Harry Potter e o Prisioneiro de Azkaban',
+  author: 'JK Rowling',
+  publisher: 'Rocco',
+
+3 - Acesse as chaves name e favoriteBooks e faça um console.log() no seguinte formato: - CONCLUÍDO
+
+“Julia tem {quantidade} livros favoritos.”
+
+{quantidade} corresponde à quantidade de livros favoritos, sendo um número gerado automaticamente pelo seu código. Caso a quantidade seja igual a 1, a frase deve ser:
+
+“Julia tem 1 livro favorito.”
