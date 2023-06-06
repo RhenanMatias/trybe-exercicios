@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
 // 1
@@ -58,3 +60,4 @@ if (countOdd > 0) {
   countOdd = "Nenhum valor ímpar encontrado";
 }
 console.log(countOdd);
+>>>>>>> main
