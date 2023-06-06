@@ -1,12 +1,1 @@
-🚀 Manipulação de objetos: Parte 1
-Com base neste objeto, faça os exercícios a seguir.
-
 1 - Acesse as chaves name, lastName e title e exiba informações em um console.log() no seguinte formato: “O livro favorito de Julia Pessoa se chama ‘O Senhor dos Anéis - a Sociedade do Anel’.”.
-
-2 - Adicione um novo livro favorito na chave favoriteBooks, que é um array de objetos. Atribua a essa chave um objeto que contenha as seguintes informações:
-
-{
-  title: 'Harry Potter e o Prisioneiro de Azkaban',
-  author: 'JK Rowling',
-  publisher: 'Rocco',
-}
