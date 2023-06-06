@@ -13,3 +13,4 @@
 {quantidade} corresponde à quantidade de livros favoritos, sendo um número gerado automaticamente pelo seu código. Caso a quantidade seja igual a 1, a frase deve ser:
 
 “Julia tem 1 livro favorito.”
+
