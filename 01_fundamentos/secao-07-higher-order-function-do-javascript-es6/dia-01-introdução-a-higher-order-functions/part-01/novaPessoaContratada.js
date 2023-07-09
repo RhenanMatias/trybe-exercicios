@@ -8,7 +8,7 @@ const generateEmail = (fullName) => {
   const name = fullName.toLowerCase().replace(/ /g, "_");
   // const name = fullName.toLowerCase().split(' ').join('_');
   
-  return `${name}@trybe.com`;
+  return { fullName, email: `${name}@trybe.com`};
 };
 
 const newEmployees = (generateEmail) => {
